@@ -6,7 +6,11 @@ import com.baidu.mapapi.map.MapView;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-
+/**
+ * 百度地图API使用
+ * @author MV
+ *
+ */
 public class MainActivity extends Activity {
 
 	MapView mMapView = null;  
